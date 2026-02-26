@@ -57,5 +57,5 @@ El análisis permitió generar información clave para:
 ## 👤 Autor
 
 Keysser Marrero  
-Analista de Datos en formación  
+Analista de Datos Junior
 Córdoba, Argentina
